@@ -168,11 +168,7 @@
                     </button>
 
                     <!-- Topbar Search -->
-<<<<<<< HEAD
                    <h1>Bienvenido al area de gestión</h1>
-=======
-                  <h1>Bienvendio al area de gestión</h1>
->>>>>>> texto-Buscador
 
                     <!-- Topbar Navbar -->
                     <ul class="navbar-nav ml-auto">
